@@ -1,0 +1,21 @@
+
+int main()
+{
+    int n1,n2,tg,soma;
+    
+    printf ("Digite o Número A: ");
+    scanf ("%d",&n1);
+    
+    printf ("Digite o Número B: ");
+    scanf ("%d",&n2);
+    
+    printf ("Digite o Número C: ");
+    scanf ("%d",&tg);
+    soma=n1+n2
+    if ((n1+n2)<tg);{
+      printf ("%d+%d=%d"n1,n2,soma);
+    else
+    }
+        
+    }
+    
